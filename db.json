@@ -1,0 +1,98 @@
+{
+    "users": [{
+            "id": 0,
+            "firstName": "Acevedo",
+            "lastName": "Jensen",
+            "age": 24,
+            "company": "MOBILDATA",
+            "companyId": 3,
+            "email": "acevedojensen@mobildata.com"
+        },
+        {
+            "id": 1,
+            "firstName": "Ryan",
+            "lastName": "Mcclain",
+            "age": 22,
+            "company": "BIOSPAN",
+            "companyId": 5,
+            "email": "ryanmcclain@biospan.com"
+        },
+        {
+            "id": 2,
+            "firstName": "Marlene",
+            "lastName": "Clark",
+            "age": 22,
+            "company": "UPDAT",
+            "companyId": 2,
+            "email": "marleneclark@updat.com"
+        },
+        {
+            "id": 3,
+            "firstName": "Carissa",
+            "lastName": "Floyd",
+            "age": 30,
+            "company": "PHEAST",
+            "companyId": 1,
+            "email": "carissafloyd@pheast.com"
+        },
+        {
+            "id": 4,
+            "firstName": "Ross",
+            "lastName": "Haney",
+            "age": 40,
+            "company": "ZYTRAX",
+            "companyId": 3,
+            "email": "rosshaney@zytrax.com"
+        },
+        {
+            "id": 5,
+            "firstName": "Jenna",
+            "lastName": "Estrada",
+            "age": 40,
+            "company": "PROTODYNE",
+            "companyId": 2,
+            "email": "jennaestrada@protodyne.com"
+        },
+        {
+            "id": 6,
+            "firstName": "Chen",
+            "lastName": "Watson",
+            "age": 37,
+            "company": "TRIPSCH",
+            "companyId": 2,
+            "email": "chenwatson@tripsch.com"
+        }
+    ],
+    "companies": [{
+            "id": 0,
+            "name": "TURNLING",
+            "description": "Aliquip laboris dolore mollit nostrud aliqua sunt ipsum. Laboris in veniam velit duis aliquip proident et aute eu tempor anim sunt eiusmod magna. Labore do non incididunt et qui enim. Irure laborum culpa aute nulla quis. Ea in ullamco labore Lorem pariatur.\r\n"
+        },
+        {
+            "id": 1,
+            "name": "PLASMOX",
+            "description": "Nulla aliqua aliquip tempor ut quis laboris nisi nostrud irure nostrud nostrud sunt. Adipisicing cillum nulla dolore veniam pariatur exercitation laboris nostrud commodo fugiat. Esse eiusmod nisi cupidatat dolore. Eu adipisicing proident duis reprehenderit qui qui eu tempor sit aliquip dolore velit tempor laboris. Labore pariatur cillum amet ea laborum est voluptate Lorem consequat.\r\n"
+        },
+        {
+            "id": 2,
+            "name": "EXODOC",
+            "description": "Eiusmod sunt magna ullamco anim occaecat incididunt est adipisicing tempor eu qui ullamco. Anim dolor commodo cupidatat enim duis ipsum mollit id sit. Anim id ea aliquip duis cillum sunt et minim ut nulla in.\r\n"
+        },
+        {
+            "id": 3,
+            "name": "CALCULA",
+            "description": "Nulla dolor pariatur exercitation do. Excepteur irure et nostrud duis anim elit nostrud deserunt nisi excepteur qui deserunt. Laboris eiusmod ipsum tempor commodo deserunt. Excepteur veniam aute aliqua proident laboris ad reprehenderit nostrud laboris eiusmod ea do officia eiusmod. Tempor eiusmod excepteur qui nisi qui aliquip sit culpa.\r\n"
+        },
+        {
+            "id": 4,
+            "name": "POSHOME",
+            "description": "Sint incididunt irure enim sit dolore. Eiusmod ex incididunt ipsum fugiat id ut labore eiusmod est nostrud laborum et commodo elit. Exercitation mollit est officia irure consectetur minim. Ad do consectetur culpa dolore tempor labore exercitation.\r\n"
+        },
+        {
+            "id": 5,
+            "name": "GEEKUS",
+            "description": "Tempor ipsum consequat aliqua ex ipsum. Ipsum qui duis sint Lorem nulla eu sit ea minim adipisicing in. Ut nisi deserunt velit mollit ea in ea exercitation.\r\n"
+        }
+
+    ]
+}
